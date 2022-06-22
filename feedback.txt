@@ -1,0 +1,2 @@
+Based on feedback from peers, I would further improve the structure of the code and put more detailed comments.
+Both algorithms, A* and BFS are performing well to find a possible path or the best path.
